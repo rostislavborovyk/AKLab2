@@ -1,0 +1,4 @@
+/home/rostislav/projects/AKLab2/calculator/CMakeFiles/rebuild_cache.dir
+/home/rostislav/projects/AKLab2/calculator/CMakeFiles/edit_cache.dir
+/home/rostislav/projects/AKLab2/calculator/CMakeFiles/calculator.dir
+/home/rostislav/projects/AKLab2/calculator/CMakeFiles/main.dir

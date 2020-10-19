@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rostislav/projects/AKLab2/calculator/calculator.cpp
+calculator.h
+/home/rostislav/projects/AKLab2/calculator/calculator.h
+
+/home/rostislav/projects/AKLab2/calculator/calculator.h
+
