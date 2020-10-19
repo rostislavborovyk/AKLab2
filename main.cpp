@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	Calculator calc;
-	int res = calc.Add(6.0, 8.0);
+	int res = calc.Add(9.0, 8.0);
     cout << res << endl;
     return 0;
 }
